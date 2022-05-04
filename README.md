@@ -14,3 +14,4 @@ This is a typical reinforcement learning scenario.
 * The way to avoid the pipes is to make the bird fly a little harder - the `action`
 * The farther you fly, the more points you will get - the `reward`
 
+You will find that the biggest difference between reinforcement learning and supervised and unsupervised learning is that it does not require a lot of data feeding. Instead, you learn certain skills by trying them out on your own.
