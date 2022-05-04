@@ -15,3 +15,7 @@ This is a typical reinforcement learning scenario.
 * The farther you fly, the more points you will get - the `reward`
 
 You will find that the biggest difference between reinforcement learning and supervised and unsupervised learning is that it does not require a lot of data feeding. Instead, you learn certain skills by trying them out on your own.
+
+## Coursera Programming Assignments
+* Course 1: Fundamentals of Reinforcement Learning
+[Bandits and Exploration / Exploitation]
