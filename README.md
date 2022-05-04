@@ -8,6 +8,8 @@ In the game Flappy bird, we need to simply click to control the bird, dodge vari
 
 This is a typical reinforcement learning scenario.
 
+![](https://media3.giphy.com/media/euuaA2cwLEUuI/giphy.gif)
+
 * The machine has an explicit role for the bird - the `agent`
 * The bird needs to be controlled to fly farther - the `goal`
 * Need to dodge various water pipes throughout the game - the `environment`
