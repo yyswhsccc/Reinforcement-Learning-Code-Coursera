@@ -9,7 +9,7 @@ In the game Flappy bird, we need to simply click to control the bird, dodge vari
 This is a typical reinforcement learning scenario.
 
 ![](https://media3.giphy.com/media/euuaA2cwLEUuI/giphy.gif) 
-![](https://reactiongifs.me/wp-content/uploads/2014/02/flappy-bird-game-over-share-score-zero.gif)
+![](http://cdn.shopify.com/s/files/1/0601/9689/products/Flappy_300_grande.gif?v=1417285838)
 
 * The machine has an explicit role for the bird - the `agent`
 * The bird needs to be controlled to fly farther - the `goal`
@@ -49,3 +49,7 @@ You will find that the biggest difference between reinforcement learning and sup
   * [Implement your agent](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Implement%20your%20agent.ipynb)
 
   * [Completing the Parameter Study](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Completing%20the%20Parameter%20Study.ipynb)
+
+## Study Notes of CMPUT365 Reinforcement Learning
+
+* [
