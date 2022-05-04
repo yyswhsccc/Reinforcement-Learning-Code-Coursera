@@ -1,4 +1,4 @@
-# Reinforcement-Learning-Code-Coursera
+# Reinforcement-Learning Study Notes
 ## About Reinforcement Learning
 Reinforcement learning is not a specific algorithm, but a generic term for a class of algorithms. If used for comparison, it is similar to supervised learning and unsupervised learning, which is an umbrella term for learning.
 
