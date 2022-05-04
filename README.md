@@ -18,7 +18,31 @@ You will find that the biggest difference between reinforcement learning and sup
 
 ## Coursera Programming Assignments
 * Course 1: Fundamentals of Reinforcement Learning
+
   * [Bandits and Exploration / Exploitation](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Fundamentals%20of%20Reinforcement%20Learning/Bandits%20and%20Exploration:Exploitation.ipynb)
-* 
+  
+  * [Optimal Policies with Dynamic Programming](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Fundamentals%20of%20Reinforcement%20Learning/Optimal%20Policies%20with%20Dynamic%20Programming.ipynb)
+  
+* Course 2: Sample-based Learning Methods
 
+  * [Policy Evaluation with Temporal Difference Learning](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Sample-based%20Learning%20Methods/Policy%20Evaluation%20in%20Cliff%20Walking%20Environment.ipynb)
 
+  * [Q-Learning and Expected Sarsa](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Sample-based%20Learning%20Methods/Q-Learning%20and%20Expected%20Sarsa.ipynb)
+
+  * [Dyna-Q and Dyna-Q+](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Sample-based%20Learning%20Methods/Dyna-Q%20and%20Dyna-Q%2B.ipynb)
+
+* Course 3: Prediction and Control with Function Approximation
+
+  * [TD with State Aggregation](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Prediction%20and%20Control%20with%20Function%20Approximation/TD%20with%20State%20Aggregation.ipynb)
+
+  * [Semi-gradient TD with a Neural Network](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Prediction%20and%20Control%20with%20Function%20Approximation/Semi-gradient%20TD%20with%20a%20Neural%20Network.ipynb)
+
+  * [Function Approximation and Control](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Prediction%20and%20Control%20with%20Function%20Approximation/Function%20Approximation%20and%20Control.ipynb)
+
+* Course 4: A Complete Reinforcement Learning System (Capstone)
+
+  * [MoonShot Technologies](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/MoonShot%20Technologies.ipynb)
+
+  * [Implement your agent](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Implement%20your%20agent.ipynb)
+
+  * [Completing the Parameter Study](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Completing%20the%20Parameter%20Study.ipynb)
