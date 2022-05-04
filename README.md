@@ -9,7 +9,7 @@ In the game Flappy bird, we need to simply click to control the bird, dodge vari
 This is a typical reinforcement learning scenario.
 
 ![](https://media3.giphy.com/media/euuaA2cwLEUuI/giphy.gif) 
-![](http://cdn.shopify.com/s/files/1/0601/9689/products/Flappy_300_grande.gif?v=1417285838)
+![](https://reactiongifs.me/wp-content/uploads/2014/02/flappy-bird-game-over-share-score-zero.gif)
 
 * The machine has an explicit role for the bird - the `agent`
 * The bird needs to be controlled to fly farther - the `goal`
@@ -50,6 +50,70 @@ You will find that the biggest difference between reinforcement learning and sup
 
   * [Completing the Parameter Study](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Completing%20the%20Parameter%20Study.ipynb)
 
-## Study Notes of CMPUT365 Reinforcement Learning
+## Lecture Notes of CMPUT365 Reinforcement Learning
 
-* [
+* [Probabilities and Expectation](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Probabilities%20and%20Expectation.pdf)
+
+* [K-Armed Bandits](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/K-Armed%20Bandits.pdf)
+
+* [Markov Decision Processes](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Markov%20Decision%20Processes.pdf)
+
+* [Value Functions and Bellman Equations](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Value%20Function%20and%20Bellman%20Equations%20.pdf)
+
+* [Dynamic Programming](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Dynamic%20Programming.pdf)
+
+* [Monte Carlo Methods](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Monte%20Carlo%20Methods.pdf)
+
+* [Temporal Difference Methods for Prediction](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Temporal%20Difference%20Methods%20for%20Prediction.pdf)
+
+* [Temporal Difference Methods for Control](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Temporal%20Difference%20Methods%20for%20Control.pdf)
+
+* [Planning, Learning, and Acting](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Planning%2C%20Learning%2C%20and%20Acting.pdf)
+
+* [Function Approximation Prediction & Prediction with Approximation](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Function%20Approximation%20Prediction.pdf)
+
+* [TD Update Stability & Neural Network](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/TD%20Update%20Stability.pdf)
+
+* [Control with Approximation](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Control%20with%20Approximation.pdf)
+
+* [Review](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Review.pdf)
+
+## Coursera Notes of CMPUT365 Reinforcement Learning
+
+* 1. Fundamentals of Reinforcement Learning 
+
+  * [Week 1: The K-Armed Bandit Problem & Explorations vs Exploitation Tradeoff](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Coursera%20Fundamentals%20of%20Reinforcement%20Learning%20Notes%20Week%201.pdf)
+  
+  * [Week 2: Markov Decision Processes](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Coursera%20Fundamentals%20of%20Reinforcement%20Learning%20Notes%20Week%202.pdf)
+  
+  * [Week 3: Value Functions & Bellman Equations](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Coursera%20Fundamentals%20of%20Reinforcement%20Learning%20Notes%20Week%203.pdf)
+  
+  * [Week 4: Dynamic Programming (Policy Evaluation(Prediction), Policy Evaluation(Control), Generalized Policy Iteration)](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Coursera%20Fundamentals%20of%20Reinforcement%20Learning%20Notes%20Week%204.pdf)
+
+* 2. Sample-based Learning Methods
+
+  * [Week 1: Monte Carlo Methods for Prediction & Control (Exploration Methods for Monte Carlo, Off-policy Learning for Prediction)](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Coursera%20Sample-based%20Learning%20Methods%20Learning%20Notes%20Week%201.pdf)
+  
+  * [Week 2: Temporal Difference Learning Methods for Prediction](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Coursera%20Sample-based%20Learning%20Methods%20Learning%20Notes%20Week%202.pdf)
+  
+  * [Week 3: Temporal Difference Learning Methods for Control](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Coursera%20Sample-based%20Learning%20Methods%20Learning%20Notes%20Week%203.pdf)
+  
+  * [Weel 4: Planning, Learning, and Acting (Model)](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Coursera%20Sample-based%20Learning%20Methods%20Learning%20Notes%20Week%204.pdf)
+
+* 3. Prediction and Control with Function Approximation
+
+  * [Week 1: On-policy Prediction with Approximation (Linear TD)](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Coursera%20Prediction%20and%20Control%20with%20Function%20Approximation%20Learning%20Notes%20Week%201.pdf)
+  
+  * [Week 2: Feature Construction for Linear Methods (Neural Networks, Training Neural Networks)](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Coursera%20Prediction%20and%20Control%20with%20Function%20Approximation%20Learning%20Notes%20Week%202.pdf)
+  
+  * [Week 3: Control with Approximation (Episodic Sarsa with Function Approximation, Exploration under Function Approximation, Average Reward)](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Coursera%20Prediction%20and%20Control%20with%20Function%20Approximation%20Learning%20Notes%20Week%203.pdf)
+
+## Worksheet Questions
+
+* [Worksheets](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Worksheets.pdf)
+
+## Exam Reviews
+
+* [Midterm Review](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Midterm%20Review.pdf)
+
+* [Final Review](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Notes/Final%20Review.pdf)
