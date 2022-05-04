@@ -18,5 +18,7 @@ You will find that the biggest difference between reinforcement learning and sup
 
 ## Coursera Programming Assignments
 * Course 1: Fundamentals of Reinforcement Learning
+  * [Bandits and Exploration / Exploitation](https://github.com/yyswhsccc/Reinforcement-Learning-Code-Coursera/blob/main/Fundamentals%20of%20Reinforcement%20Learning/Bandits%20and%20Exploration:Exploitation.ipynb)
+* 
 
-** [Bandits and Exploration / Exploitation]
+
